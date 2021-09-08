@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200;400;700&display=swap");
+
+/*Configuração cor da body*/
+body {
+  background-color: #e5c7b6;
+}
+
+/*Configuração  do Banner*/
+
+.container-fluid p,
+h2 {
+  color: white;
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  width: 1350px;
+}
+
+/*Config h1 pagina inicial */
+
+h1 {
+  color: #550b75;
+  font-family: "MuseoModerno";
+  font-size: 20px;
+}

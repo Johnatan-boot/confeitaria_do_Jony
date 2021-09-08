@@ -1,0 +1,10 @@
+footer {
+  background-color: #974b21;
+}
+a:link,
+h5 {
+  font-family: "MuseoModerno";
+  color: #f7a6d8;
+  text-decoration: none;
+  font-size: 15px;
+}

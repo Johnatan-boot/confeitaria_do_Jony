@@ -1,0 +1,25 @@
+.grid-5,
+.grid-6,
+.card-3 {
+  padding-bottom: 20px;
+}
+
+.grid-6 {
+  padding-left: 25px; /* padding-left=> joga um elemento da esquerda para direita*/
+}
+
+.card-title {
+  /*Config. titulo card*/
+  color: black;
+}
+.card-text {
+  /*Config. descrição  cards*/
+  color: black;
+  padding-bottom: 20px;
+}
+
+/* config. botoes cards*/
+
+.botao-card {
+  background-color: #f80199;
+}

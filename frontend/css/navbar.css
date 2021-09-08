@@ -1,0 +1,44 @@
+/*Configuração de div_navbar ocultar/expandir*/
+
+.container-navbar {
+  background-color: #974b21;
+  border: 2px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#bt1,
+#bt2 {
+  height: 40px;
+  margin-bottom: 5px;
+  background-color: #ee0193;
+  color: #f7a6d8;
+  border: 2px solid #fd31af;
+}
+#bt1:hover,
+#bt2:hover {
+  background-color: #fa14a2;
+}
+
+nav {
+  background-color: #974b21;
+}
+.container-fluid a {
+  font-family: "MuseoModerno";
+
+  color: #f7a6d8;
+}
+
+div .nav-item {
+  color: #f7a6d8;
+}
+.nav-item .nav-link {
+  color: #f7a6d8;
+}
+
+button {
+  background-color: #ee0193;
+}
+button:hover {
+  background-color: #fa14a2;
+}
